@@ -63,6 +63,7 @@
         <module>xmlbeans-xpath</module>
         <module>jaxb</module>
         <module>jackson</module>
+        <module>jamlbeans</module>
         <module>example</module>
     </modules>
 
